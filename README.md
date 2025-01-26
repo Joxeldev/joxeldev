@@ -19,9 +19,8 @@
 
 | **Category**               | **Technologies**                                                                                                                                                          |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**               | Next.js, React, Angular                                                                                                                                                   |
-| **Testing & QA**           | Vitest, Testing Library, Playwright, Stryker                                                                                                                              |
-| **Infrastructure & Tools** | Storybook, ESLint, Sentry, Vercel, AWS                                                                                                                                         |
+| **Frontend**               | Next.js, React, Astro                                                                                                                                                   |                                                                                                                          |
+| **Infrastructure & Tools** | Storybook, Vercel, AWS                                                                                                                                         |
 | **Styling**                | SCSS, Tailwind, HTML5                                                                                                                                                         |
 
 ---
