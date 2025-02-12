@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/joxelopz/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [Jose](https://www.linkedin.com/in/joxelopz/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
 * I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT.
 
@@ -11,7 +11,7 @@
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/joxelopz/)
+* Connect with me on LinkeDin :fireworks: [LinkeDin](https://www.linkedin.com/in/joxelopz/)
 
 ---
 
