@@ -11,7 +11,7 @@
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/)
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/joxelopz/)
 
 ---
 
