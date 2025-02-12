@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [Dipto Chakrabarty](https://www.linkedin.com/in/joxelopz/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
 * I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT.
 
@@ -26,9 +26,9 @@
 ---
 
 
-### 🚀 Social Networks
+### ⚡ Social Networks
 
-[Instagram](https://instagram.com/joxelpz) | [Linkedin](https://instagram.com/joxelpz) | [Blog](https://google.com/)
+[Instagram](https://instagram.com/joxelpz) | [Linkedin](https://www.linkedin.com/in/joxelopz/) | [Blog](https://google.com/)
 
 <!--
 **joxeldv/joxeldv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
