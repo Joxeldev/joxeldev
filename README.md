@@ -1,32 +1,30 @@
-## Hi 👋
+## Hola 👋
 
 
-* I am [Jose](https://www.linkedin.com/in/joxelopz/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* Soy [Jose](https://www.linkedin.com/in/joxelopz/) :blush:. Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
 * I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT.
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation.
+* Actualmente estoy mejorando mis habilidades y planeo aprender sobre seguridad web..
 
-* I am currently brushing up my skills and plan to learn Cyber security.
+* Estoy dispuesto a trabajar en proyectos independientess como Freelancer :bulb:
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
-
-* Connect with me on LinkedIn :fireworks: [Linkedin](https://www.linkedin.com/in/joxeldev/)
+* Conéctate conmigo en LinkedIn :fireworks: [Linkedin](https://www.linkedin.com/in/joxeldev/)
 
 ---
 
 ### 🚀 Tech Stack
 
-| **Category**               | **Technologies**                                                                                                                                                          |
+| **Categoría**               | **Tecnologías**                                                                                                                                                          |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Frontend**               | Next.js, React, Astro                                                                                                                                                   |                                                                                                                          |
-| **Infrastructure & Tools** | Storybook, Vercel, AWS                                                                                                                                         |
-| **Styling**                | SCSS, Tailwind, HTML5                                                                                                                                                         |
+| **Infraestructura & Tools** | Storybook, Vercel, AWS                                                                                                                                         |
+| **Estilos**                | SCSS, Tailwind, HTML5                                                                                                                                                         |
 
 ---
 
 
-### ⚡ Social Networks
+### ⚡ Redes sociales
 
 [Instagram](https://instagram.com/joxelpz) | [Linkedin](https://www.linkedin.com/in/joxeldev/) | [Blog](https://google.com/)
 
