@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 
 * I am [Jose](https://www.linkedin.com/in/joxelopz/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
@@ -7,11 +7,11 @@
 
 * I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation.
 
-* I am currently brushing up my skills and plan to learn Golang and Terraform.
+* I am currently brushing up my skills and plan to learn Cyber security.
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* Connect with me on LinkeDin :fireworks: [Linkedin](https://www.linkedin.com/in/joxelopz/)
+* Connect with me on LinkedIn :fireworks: [Linkedin](https://www.linkedin.com/in/joxeldev/)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### ⚡ Social Networks
 
-[Instagram](https://instagram.com/joxelpz) | [Linkedin](https://www.linkedin.com/in/joxelopz/) | [Blog](https://google.com/)
+[Instagram](https://instagram.com/joxelpz) | [Linkedin](https://www.linkedin.com/in/joxeldev/) | [Blog](https://google.com/)
 
 <!--
 **joxeldv/joxeldv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
