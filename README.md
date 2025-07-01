@@ -1,5 +1,6 @@
 ## Hola 👋
 
+* Soy [José](https://www.linkedin.com/in/joxelopz/) 😊
 
 * 👨‍💻 Frontend developer enfocado en el desarrollo seguro de aplicaciones web :satellite:
   
