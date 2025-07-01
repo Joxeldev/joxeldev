@@ -24,7 +24,7 @@
 
 ### ⚡ Redes sociales
 
-[Instagram](https://instagram.com/joxeldev) | [Linkedin](https://www.linkedin.com/in/joxeldev/) | [Blog](https://joxel.dev/)
+[x](https://x.com/joxeldev) | [Instagram](https://instagram.com/joxeldev) | [Linkedin](https://www.linkedin.com/in/joxeldev/) | [Blog](https://joxel.dev/)
 
 <!--
 **joxeldv/joxeldv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
