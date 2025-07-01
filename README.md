@@ -1,15 +1,13 @@
 ## Hola 👋
 
 
-* Soy [Jose](https://www.linkedin.com/in/joxelopz/) :blush:. Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
-
-* I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT.
-
-* Actualmente estoy mejorando mis habilidades y planeo aprender sobre seguridad web..
-
-* Estoy dispuesto a trabajar en proyectos independientess como Freelancer :bulb:
-
-* Conéctate conmigo en LinkedIn :fireworks: [Linkedin](https://www.linkedin.com/in/joxeldev/)
+* 👨‍💻 Frontend developer enfocado en el desarrollo seguro de aplicaciones web :satellite:
+  
+* 🔒 Apasionado por la ciberseguridad y por mejorar la forma en que construimos en internet.
+  
+* 💡 Abierto a colaborar en proyectos como freelancer.
+  
+* 🎆 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/joxeldev/).  
 
 ---
 
@@ -26,7 +24,7 @@
 
 ### ⚡ Redes sociales
 
-[Instagram](https://instagram.com/joxelpz) | [Linkedin](https://www.linkedin.com/in/joxeldev/) | [Blog](https://google.com/)
+[Instagram](https://instagram.com/joxeldev) | [Linkedin](https://www.linkedin.com/in/joxeldev/) | [Blog](https://joxel.dev/)
 
 <!--
 **joxeldv/joxeldv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
